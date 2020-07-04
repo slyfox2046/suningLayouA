@@ -100,12 +100,10 @@ body {
   width: 1.5rem;
   height: 1.4rem;
   margin: 0.2rem;
-  background-color: burlywood;
   font-size: 0.5rem;
   text-align: center;
   color: #fff;
   line-height: 1.4rem;
-  text-shadow: 3px 3px 10px 10px;
 }
 .banner {
   width: 15rem;
