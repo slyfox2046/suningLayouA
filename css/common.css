@@ -1,4 +1,7 @@
 /* 设置常见的屏幕尺寸,修改里面的html文字大小 */
+a {
+  text-decoration: none;
+}
 html {
   font-size: 50px;
 }
